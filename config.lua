@@ -15,3 +15,6 @@ C.settings.tweaks = false
 
 -- Elements
 C.settings.cooldownsCount = false
+
+-- move quest tracker to the right edge (not using those side action bars)
+C.settings.minimap.questTrackerPosX = 0
