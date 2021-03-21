@@ -29,9 +29,9 @@ eventframe:SetScript(
 -- > Config
 -- ---------------------------------
 
-local autoRepair = true
+local autoRepair = false
 local autoRepairGuild = true
-local autoSell = true
+local autoSell = false
 local saySapped = true
 local acceptRes = true
 local battlegroundRes = true
